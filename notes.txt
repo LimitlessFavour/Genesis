@@ -1,0 +1,8 @@
+{
+   "hash": "",
+   "height": 0,
+   "tx": [
+   ],
+   "time": 0,
+   "previousblockhash": ""
+ }
