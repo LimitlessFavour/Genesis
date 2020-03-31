@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f606352e-c0c5-47ec-a2bc-697109e78035" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpleChain.js" beforeDir="false" afterPath="$PROJECT_DIR$/simpleChain.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testnet_block_1325438.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/block.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/block.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blockchain.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/blockchain.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +28,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="jsx.switch.disabled" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -62,7 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585572676239</updated>
       <workItem from="1585572677700" duration="3396000" />
-      <workItem from="1585578224463" duration="2838000" />
+      <workItem from="1585578224463" duration="5934000" />
+      <workItem from="1585616237958" duration="9128000" />
     </task>
     <servers />
   </component>
